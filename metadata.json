@@ -1,0 +1,6 @@
+{
+  "name": "I’m Becoming Me — Anthem & Lyria Music Studio",
+  "description": "Interactive songbook, synchronized vocal teleprompter, and AI music studio powered by Google Lyria for the inspirational pop anthem 'I’m Becoming Me'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
